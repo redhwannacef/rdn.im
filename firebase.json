@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "redirects": [
+      {
+        "source": "/youtube",
+        "destination": "https://www.youtube.com/c/RedhwanNacef",
+        "type": 301
+      }
+    ]
+  }
+}
