@@ -7,6 +7,11 @@
         "source": "/youtube",
         "destination": "https://www.youtube.com/c/RedhwanNacef",
         "type": 301
+      },
+      {
+        "source": "/github",
+        "destination": "https://github.com/redhwannacef",
+        "type": 301
       }
     ]
   }
