@@ -12,6 +12,16 @@
         "source": "/github",
         "destination": "https://github.com/redhwannacef",
         "type": 301
+      },
+      {
+        "source": "/github/:project*",
+        "destination": "https://github.com/redhwannacef/:project",
+        "type": 301
+      },
+      {
+        "source": "/tutorials",
+        "destination": "https://github.com/redhwannacef/youtube-tutorials",
+        "type": 301
       }
     ]
   }
